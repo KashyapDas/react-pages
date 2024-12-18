@@ -1,15 +1,14 @@
 import React from 'react'
-import SignUpFour from './components/signup_pages/SignUpFour';
-import SignInOne from './components/signin_pages/SignInOne';
-import SignUpFive from './components/signup_pages/SignUpFive';
+
 
 const App = () => {
+
+  // Had some issue with the SignUpFive Component. Need to fix later
+
   return (
     <div>
-      {/* <SignUpFour /> */}
-      {/* <SignInOne /> */}
-      <SignUpFive />
 
+      {/* <SignUpFive /> */}  
 
     </div>
   )
